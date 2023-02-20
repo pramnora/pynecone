@@ -15,7 +15,7 @@ GitHub
 
 #### YouTube Videos...
 
-Pynecone: The Python-Only Web Framework (Chanlel: Neural Nine)  
+Pynecone: The Python-Only Web Framework (Channel: Neural Nine)  
 - https://www.youtube.com/watch?v=ur4fCNMPp0I   
 - 
 
