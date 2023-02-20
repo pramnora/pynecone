@@ -8,6 +8,9 @@ The official main site...
 - https://pynecone.io/docs/gallery  
 - https://pynecone.io/docs/getting-started/introduction  
 
+PyPi.org  
+- https://pypi.org/project/pynecone-io/  
+
 GitHub
 - https://github.com/pynecone-io/pynecone  
 
